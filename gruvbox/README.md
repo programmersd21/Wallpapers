@@ -14,6 +14,7 @@
 ![camera 2](./camera-2.jpg)
 ![dense forest](./dense-forest.jpg)
 ![desk gruvbox material](./desk-gruvbox-material.jpg)
+![gryvbox flowers](./gruvbox-flower.jpg)
 ![door](./door.png)
 ![finalizer](./finalizer.png)
 ![future town](./future_town.jpg)

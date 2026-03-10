@@ -20,8 +20,6 @@
 ![b 618](./b-618.jpg)
 ![b 725](./b-725.jpg)
 ![b 726](./b-726.jpg)
-![b 769](./b-769.jpg)
-![b 799](./b-799.jpg)
 ![car girl white](./car-girl-white.png)
 ![death life](./death-life.png)
 ![detective spiderman](./detective-spiderman.jpg)
